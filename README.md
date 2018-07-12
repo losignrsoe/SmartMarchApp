@@ -1,2 +1,2 @@
-# SmartMarchApp
-remote control app of SmartMarch Iot device.
+# SmartMarch
+SmartMarch Iot device.
